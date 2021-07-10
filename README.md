@@ -8,4 +8,4 @@ How to run it?
 1. Clone and open the repository.
 2.  Run Calculator.sln
 3.  With the Visual Studio IDE run the project.
-4.  Done :tada:	:tada:	:tada:	
+4.  Done :tada:	
